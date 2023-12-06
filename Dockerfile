@@ -1,1 +1,1 @@
-FROM ghcr.io/eoovve/alp-node:main
+FROM ghcr.io/eoovve/pipeops:main
