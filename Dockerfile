@@ -1,1 +1,1 @@
-FROM ghcr.io/eoovve/alp:node:latest
+FROM ghcr.io/eoovve/alp-node:main
