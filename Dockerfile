@@ -1,1 +1,1 @@
-FROM ghcr.io/eoovve/pipeops:main
+FROM ghcr.io/eoovve/pipope:latest
