@@ -1,1 +1,1 @@
-只能使用固定隧道token形式，环境变量参考nodejs-argo项目说明
+只能使用固定隧道token形式，UUID不可更改，不要添加UUID变量，环境变量参考nodejs-argo项目说明
